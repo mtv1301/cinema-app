@@ -26,4 +26,4 @@ A RESTful web application simulating a simple cinema service, where user can buy
 2. Edit mock data in the "db.properties" file to yours.
 3. Configure Tomcat Server.
 4. Run a project.
-5. You can test the API with the existing ADMIN ("admin@i.ua", password:"admin123") and USER (name: "bob@gmail.com", password:"12345") roles.# cinema-app
+5. You can test the API with the existing ADMIN ("admin@i.ua", password:"admin123") and USER (name: "bob@gmail.com", password:"12345") roles.
