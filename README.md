@@ -14,6 +14,10 @@ A RESTful web application simulating a simple cinema service, where user can buy
 * CRUD operations with the movie sessions
 ### Anonymous:
 * registration
+* login
+* view movies
+* view available movie sessions
+* view cinema halls
 ### Technologies used
 * Frameworks: Spring - Core / MVC / Web / Security
 * ORM: Hibernate
